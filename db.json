@@ -2,8 +2,8 @@
     "cursos": [
         {
         "id": 1,
-        "title": "React desde cero",
-        "image": "https://image.freepik.com/foto-gratis/composicion-playa-verano-fondo_24837-241.jpg",
+        "title": "Todo es para practicar",
+        "image": "https://images.pexels.com/photos/2637288/pexels-photo-2637288.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "nombre": "Mizael",
         "apellido": "Paredes",
         "price": 25,
@@ -13,7 +13,7 @@
       "id": 2,    
       "title": "React desde cero",
       "image": "https://images.pexels.com/photos/1033729/pexels-photo-1033729.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "nombre": "ROberto",
+      "nombre": "Ricardo",
       "apellido": "Ramirez",
       "price": 25,
       "imageTiny": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-06/Google%20analytics%20desde%20cero.png"
@@ -22,8 +22,8 @@
         "id": 3,
         "title": "React desde cero",
         "image": "https://images.pexels.com/photos/38537/woodland-road-falling-leaf-natural-38537.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "nombre": "Rigoberto",
-        "apellido": "Ramirez",
+        "nombre": "Rodrigo",
+        "apellido": "Sepúlveda",
         "price": 25,
         "imageTiny": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-06/Google%20analytics%20desde%20cero.png"
       },
