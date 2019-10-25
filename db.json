@@ -14,7 +14,7 @@
       "title": "React desde cero",
       "image": "https://images.pexels.com/photos/1033729/pexels-photo-1033729.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "nombre": "Ricardo",
-      "apellido": "Ramirez",
+      "apellido": "Perez",
       "price": 25,
       "imageTiny": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-06/Google%20analytics%20desde%20cero.png"
       },
@@ -23,7 +23,7 @@
         "title": "React desde cero",
         "image": "https://images.pexels.com/photos/38537/woodland-road-falling-leaf-natural-38537.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "nombre": "Rodrigo",
-        "apellido": "Sepúlveda",
+        "apellido": "Bolaños",
         "price": 25,
         "imageTiny": "https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-06/Google%20analytics%20desde%20cero.png"
       },
